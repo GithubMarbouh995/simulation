@@ -1,0 +1,426 @@
+{
+  "transactions": [
+    {
+      "id": "txn-10001",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-01T08:30:00Z",
+      "type": "CREDIT",
+      "amount": 2200,
+      "currency": "EUR",
+      "description": "Salaire Aout",
+      "runningBalance": 2200
+    },
+    {
+      "id": "txn-10002",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-05T10:00:00Z",
+      "type": "DEBIT",
+      "amount": 750,
+      "currency": "EUR",
+      "description": "Loyer Septembre",
+      "counterpartyName": "SCI Horizon",
+      "runningBalance": 1450
+    },
+    {
+      "id": "txn-10003",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-08T18:15:00Z",
+      "type": "DEBIT",
+      "amount": 85.6,
+      "currency": "EUR",
+      "description": "Supermarché Grand Frais",
+      "runningBalance": 1364.4
+    },
+    {
+      "id": "txn-10004",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-12T12:35:00Z",
+      "type": "DEBIT",
+      "amount": 35,
+      "currency": "EUR",
+      "description": "Repas Brasserie Soleil",
+      "runningBalance": 1329.4
+    },
+    {
+      "id": "txn-10005",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-15T09:00:00Z",
+      "type": "DEBIT",
+      "amount": 50,
+      "currency": "EUR",
+      "description": "Abonnement Transport",
+      "runningBalance": 1279.4
+    },
+    {
+      "id": "txn-10006",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-19T20:05:00Z",
+      "type": "DEBIT",
+      "amount": 62.3,
+      "currency": "EUR",
+      "description": "Commande TechStore.com",
+      "runningBalance": 1217.1
+    },
+    {
+      "id": "txn-10007",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-22T14:00:00Z",
+      "type": "DEBIT",
+      "amount": 80,
+      "currency": "EUR",
+      "description": "Retrait DAB Agence Nord",
+      "runningBalance": 1137.1
+    },
+    {
+      "id": "txn-10008",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-25T11:10:00Z",
+      "type": "DEBIT",
+      "amount": 49.99,
+      "currency": "EUR",
+      "description": "Abonnement Streaming+",
+      "runningBalance": 1087.11
+    },
+    {
+      "id": "txn-10009",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-28T16:45:00Z",
+      "type": "DEBIT",
+      "amount": 115,
+      "currency": "EUR",
+      "description": "Facture Electricite",
+      "runningBalance": 972.11
+    },
+    {
+      "id": "txn-10010",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-01T08:35:00Z",
+      "type": "CREDIT",
+      "amount": 2250,
+      "currency": "EUR",
+      "description": "Salaire Septembre",
+      "runningBalance": 3222.11
+    },
+    {
+      "id": "txn-10011",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-04T19:00:00Z",
+      "type": "DEBIT",
+      "amount": 58.2,
+      "currency": "EUR",
+      "description": "Pharmacie Centrale",
+      "runningBalance": 3163.91
+    },
+    {
+      "id": "txn-10012",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-05T10:05:00Z",
+      "type": "DEBIT",
+      "amount": 750,
+      "currency": "EUR",
+      "description": "Loyer Octobre",
+      "counterpartyName": "SCI Horizon",
+      "runningBalance": 2413.91
+    },
+    {
+      "id": "txn-10013",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-10T09:20:00Z",
+      "type": "DEBIT",
+      "amount": 300,
+      "currency": "EUR",
+      "description": "Virement Epargne acct-1002",
+      "counterpartyAccount": "acct-1002",
+      "runningBalance": 2113.91
+    },
+    {
+      "id": "txn-10014",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-14T15:55:00Z",
+      "type": "DEBIT",
+      "amount": 42.75,
+      "currency": "EUR",
+      "description": "Librairie Page Bleue",
+      "runningBalance": 2071.16
+    },
+    {
+      "id": "txn-10015",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-18T11:30:00Z",
+      "type": "DEBIT",
+      "amount": 120,
+      "currency": "EUR",
+      "description": "Assurance Auto",
+      "runningBalance": 1951.16
+    },
+    {
+      "id": "txn-10016",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-21T10:00:00Z",
+      "type": "DEBIT",
+      "amount": 75.88,
+      "currency": "EUR",
+      "description": "Carburant Station Total",
+      "runningBalance": 1875.28
+    },
+    {
+      "id": "txn-10017",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-25T17:10:00Z",
+      "type": "DEBIT",
+      "amount": 29.5,
+      "currency": "EUR",
+      "description": "Cinéma Le Rex",
+      "runningBalance": 1845.78
+    },
+    {
+      "id": "txn-20001",
+      "accountId": "acct-1002",
+      "timestamp": "2023-09-15T09:05:00Z",
+      "type": "CREDIT",
+      "amount": 200,
+      "currency": "EUR",
+      "description": "Virement initial",
+      "runningBalance": 8000
+    },
+    {
+      "id": "txn-20002",
+      "accountId": "acct-1002",
+      "timestamp": "2023-09-30T23:59:00Z",
+      "type": "CREDIT",
+      "amount": 10.5,
+      "currency": "EUR",
+      "description": "Intérêts Septembre",
+      "runningBalance": 8010.5
+    },
+    {
+      "id": "txn-20003",
+      "accountId": "acct-1002",
+      "timestamp": "2023-10-10T09:20:05Z",
+      "type": "CREDIT",
+      "amount": 300,
+      "currency": "EUR",
+      "description": "Virement depuis acct-1001",
+      "counterpartyAccount": "acct-1001",
+      "runningBalance": 8310.5
+    },
+    {
+      "id": "txn-20004",
+      "accountId": "acct-1002",
+      "timestamp": "2023-10-20T14:30:15Z",
+      "type": "CREDIT",
+      "amount": 12.5,
+      "currency": "EUR",
+      "description": "Intérêts Octobre",
+      "runningBalance": 8210.45
+    },
+    {
+      "id": "txn-9a8f7b6e-1",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-01T08:30:00Z",
+      "type": "CREDIT",
+      "amount": 2800,
+      "currency": "EUR",
+      "description": "Salaire Octobre 2023",
+      "runningBalance": 2800
+    },
+    {
+      "id": "txn-9a8f7b6e-2",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-05T10:05:15Z",
+      "type": "DEBIT",
+      "amount": 950,
+      "currency": "EUR",
+      "description": "Loyer Novembre",
+      "counterpartyName": "SCI Bon Logis",
+      "runningBalance": 1850
+    },
+    {
+      "id": "txn-9a8f7b6e-3",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-06T14:20:30Z",
+      "type": "DEBIT",
+      "amount": 85.3,
+      "currency": "EUR",
+      "description": "Supermarché Carrefour",
+      "runningBalance": 1764.7
+    },
+    {
+      "id": "txn-9a8f7b6e-4",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-10T19:55:00Z",
+      "type": "DEBIT",
+      "amount": 45.5,
+      "currency": "EUR",
+      "description": "Restaurant 'Chez Loulou'",
+      "runningBalance": 1719.2
+    },
+    {
+      "id": "txn-9a8f7b6e-5",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-15T09:10:00Z",
+      "type": "DEBIT",
+      "amount": 119.34,
+      "currency": "EUR",
+      "description": "Facture Electricite EDF",
+      "counterpartyName": "EDF",
+      "runningBalance": 1599.86
+    },
+    {
+      "id": "txn-a1b2c3d4-1",
+      "accountId": "acct-f8b1e2a2",
+      "timestamp": "2023-10-31T23:59:59Z",
+      "type": "CREDIT",
+      "amount": 15.75,
+      "currency": "EUR",
+      "description": "Intérêts Octobre 2023",
+      "runningBalance": 6515.75
+    },
+    {
+      "id": "txn-b4c5d6e7-1",
+      "accountId": "acct-d3e7f4b1",
+      "timestamp": "2023-11-03T11:00:00Z",
+      "type": "CREDIT",
+      "amount": 1500,
+      "currency": "EUR",
+      "description": "Remboursement Prêt Ami",
+      "counterpartyName": "J. Durant",
+      "runningBalance": 1500
+    },
+    {
+      "id": "txn-b4c5d6e7-2",
+      "accountId": "acct-d3e7f4b1",
+      "timestamp": "2023-11-07T08:45:00Z",
+      "type": "DEBIT",
+      "amount": 750,
+      "currency": "EUR",
+      "description": "Virement Loyer",
+      "counterpartyAccount": "FR...",
+      "runningBalance": 750
+    },
+    {
+      "id": "txn-b4c5d6e7-3",
+      "accountId": "acct-d3e7f4b1",
+      "timestamp": "2023-11-12T16:30:00Z",
+      "type": "DEBIT",
+      "amount": 775.1,
+      "currency": "EUR",
+      "description": "Achat FNAC",
+      "runningBalance": -25.1
+    },
+    {
+      "id": "txn-c7d8e9f0-1",
+      "accountId": "acct-e1a5d9c1",
+      "timestamp": "2023-10-25T15:00:00Z",
+      "type": "CREDIT",
+      "amount": 5000,
+      "currency": "EUR",
+      "description": "Paiement Facture #INV-101 - Client Alpha",
+      "counterpartyName": "Client Alpha SARL",
+      "runningBalance": 12500
+    },
+    {
+      "id": "txn-c7d8e9f0-2",
+      "accountId": "acct-e1a5d9c1",
+      "timestamp": "2023-11-02T10:20:00Z",
+      "type": "DEBIT",
+      "amount": 1500,
+      "currency": "EUR",
+      "description": "Paiement Fournisseur Beta",
+      "counterpartyName": "Fournisseur Beta Inc.",
+      "runningBalance": 11000
+    },
+    {
+      "id": "txn-c7d8e9f0-3",
+      "accountId": "acct-e1a5d9c1",
+      "timestamp": "2023-11-08T17:00:00Z",
+      "type": "CREDIT",
+      "amount": 7500,
+      "currency": "EUR",
+      "description": "Paiement Facture #INV-105 - Client Gamma",
+      "counterpartyName": "Client Gamma Ltd.",
+      "runningBalance": 18500
+    },
+    {
+      "id": "txn-c7d8e9f0-4",
+      "accountId": "acct-e1a5d9c1",
+      "timestamp": "2023-11-14T11:35:00Z",
+      "type": "DEBIT",
+      "amount": 3069.85,
+      "currency": "EUR",
+      "description": "Charges Sociales URSSAF",
+      "counterpartyName": "URSSAF",
+      "runningBalance": 15430.15
+    },
+    {
+      "id": "txn-d1e2f3g4-1",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-10-02T09:00:00Z",
+      "type": "CREDIT",
+      "amount": 2200,
+      "currency": "EUR",
+      "description": "Salaire Sept",
+      "runningBalance": 2200
+    },
+    {
+      "id": "txn-d1e2f3g4-2",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-10-06T11:25:00Z",
+      "type": "DEBIT",
+      "amount": 650,
+      "currency": "EUR",
+      "description": "Loyer",
+      "runningBalance": 1550
+    },
+    {
+      "id": "txn-d1e2f3g4-3",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-10-10T18:10:00Z",
+      "type": "DEBIT",
+      "amount": 45.78,
+      "currency": "EUR",
+      "description": "Courses Auchan",
+      "runningBalance": 1504.22
+    },
+    {
+      "id": "txn-d1e2f3g4-4",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-10-15T12:00:00Z",
+      "type": "DEBIT",
+      "amount": 200,
+      "currency": "EUR",
+      "description": "Remboursement ami",
+      "runningBalance": 1304.22
+    },
+    {
+      "id": "txn-d1e2f3g4-5",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-11-01T09:05:00Z",
+      "type": "CREDIT",
+      "amount": 2200,
+      "currency": "EUR",
+      "description": "Salaire Oct",
+      "runningBalance": 3504.22
+    },
+    {
+      "id": "txn-d1e2f3g4-6",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-11-07T10:30:00Z",
+      "type": "DEBIT",
+      "amount": 650,
+      "currency": "EUR",
+      "description": "Loyer",
+      "runningBalance": 2854.22
+    },
+    {
+      "id": "txn-d1e2f3g4-7",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-11-11T15:00:00Z",
+      "type": "DEBIT",
+      "amount": 1000,
+      "currency": "EUR",
+      "description": "Achat ordinateur",
+      "runningBalance": 1854.22
+    }
+  ]
+}

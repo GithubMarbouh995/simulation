@@ -1,0 +1,174 @@
+{
+  "accounts": [
+    {
+      "id": "acct-1001",
+      "customerId": "cust-001",
+      "accountNumber": "FR76 1111 2222 3333 4444 5555 678",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "balance": 1845.78,
+      "openedDate": "2022-03-10T11:25:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-1002",
+      "customerId": "cust-001",
+      "accountNumber": "FR76 1111 2222 3333 6666 7777 999",
+      "accountType": "SAVINGS",
+      "currency": "EUR",
+      "balance": 8210.45,
+      "openedDate": "2022-04-01T10:00:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-2001",
+      "customerId": "cust-002",
+      "accountNumber": "FR76 4444 5555 6666 7777 8888 111",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "balance": 572.11,
+      "openedDate": "2021-08-25T09:10:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-3001",
+      "customerId": "cust-003",
+      "accountNumber": "FR76 7777 8888 9999 0000 1111 222",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "balance": 3105.96,
+      "openedDate": "2023-01-05T15:05:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-3002",
+      "customerId": "cust-003",
+      "accountNumber": "FR76 7777 8888 9999 2222 3333 444",
+      "accountType": "SAVINGS",
+      "currency": "USD",
+      "balance": 2530,
+      "openedDate": "2023-02-15T14:00:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-4001",
+      "customerId": "cust-004",
+      "accountNumber": "FR76 1212 3434 5656 7878 9090 123",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "balance": 988.55,
+      "openedDate": "2022-09-18T10:15:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-f8b1e2a1",
+      "customerId": "cust-a4f8b1e2",
+      "accountNumber": "FR6614508000018765432109876",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2022-05-18T14:30:11Z",
+      "status": "ACTIVE",
+      "balance": 1599.86
+    },
+    {
+      "id": "acct-f8b1e2a2",
+      "customerId": "cust-a4f8b1e2",
+      "accountNumber": "FR3314508000011234567890123",
+      "accountType": "SAVINGS",
+      "currency": "EUR",
+      "openedDate": "2022-06-01T10:00:00Z",
+      "status": "ACTIVE",
+      "balance": 6515.75
+    },
+    {
+      "id": "acct-d3e7f4b1",
+      "customerId": "cust-c9d3e7f4",
+      "accountNumber": "FR7516598000019012345678901",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2023-01-10T09:15:35Z",
+      "status": "ACTIVE",
+      "balance": -25.1
+    },
+    {
+      "id": "acct-e1a5d9c1",
+      "customerId": "cust-b8e1a5d9",
+      "accountNumber": "FR8811223344556789012345678",
+      "accountType": "BUSINESS",
+      "currency": "EUR",
+      "openedDate": "2021-11-05T18:05:59Z",
+      "status": "ACTIVE",
+      "balance": 15430.15
+    },
+    {
+      "id": "acct-a9c6b3d1",
+      "customerId": "cust-f2a9c6b3",
+      "accountNumber": "FR5520041010051231231231234",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2022-08-22T07:50:12Z",
+      "status": "ACTIVE",
+      "balance": 2450.6
+    },
+    {
+      "id": "acct-a9c6b3d2",
+      "customerId": "cust-f2a9c6b3",
+      "accountNumber": "FR4420041010059879879879876",
+      "accountType": "SAVINGS",
+      "currency": "USD",
+      "openedDate": "2022-09-15T09:00:00Z",
+      "status": "ACTIVE",
+      "balance": 3100
+    },
+    {
+      "id": "acct-d0f1c8e1",
+      "customerId": "cust-e7d0f1c8",
+      "accountNumber": "FR9230003000017897897897890",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2023-07-03T12:00:28Z",
+      "status": "ACTIVE",
+      "balance": 988.45
+    },
+    {
+      "id": "acct-1a2b3c4d-1",
+      "customerId": "cust-1a2b3c4d",
+      "accountNumber": "FR1112345678901234567890123",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2022-03-12T16:10:42Z",
+      "status": "ACTIVE",
+      "balance": 1854.22
+    },
+    {
+      "id": "acct-5e6f7g8h-1",
+      "customerId": "cust-5e6f7g8h",
+      "accountNumber": "FR2298765432109876543210987",
+      "accountType": "BUSINESS",
+      "currency": "EUR",
+      "openedDate": "2021-09-28T10:35:15Z",
+      "status": "ACTIVE",
+      "balance": 25876.9
+    },
+    {
+      "id": "acct-5e6f7g8h-2",
+      "customerId": "cust-5e6f7g8h",
+      "accountNumber": "FR3387654321098765432109876",
+      "accountType": "SAVINGS",
+      "currency": "EUR",
+      "openedDate": "2021-10-01T11:00:00Z",
+      "status": "ACTIVE",
+      "balance": 11500
+    },
+    {
+      "customerId": "cust-5e6f7g8h",
+      "accountNumber": "FR3387654321098765432109876",
+      "type": "SAVINGS",
+      "currency": "EUR",
+      "openedDate": "2021-10-01T11:00:00Z",
+      "status": "ACTIVE",
+      "balance": 11500,
+      "id": "7f078d7d-48bb-4e82-a302-941dc6c893e9"
+    }
+  ]
+}

@@ -1,0 +1,1050 @@
+{
+  "customers": [
+    {
+      "id": "cust-001",
+      "firstName": "Elodie",
+      "lastName": "Lambert",
+      "email": "elodie.lambert@email.fr",
+      "phoneNumber": "+33 6 12 34 56 78",
+      "address": {
+        "street": "10 Rue Principale",
+        "city": "Lille",
+        "postalCode": "59000",
+        "country": "France"
+      },
+      "dateJoined": "2022-03-10T11:20:00Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-002",
+      "firstName": "Thomas",
+      "lastName": "Roux",
+      "email": "thomas.roux@provider.com",
+      "phoneNumber": "+33 7 87 65 43 21",
+      "address": {
+        "street": "25 Avenue de la République",
+        "city": "Marseille",
+        "postalCode": "13002",
+        "country": "France"
+      },
+      "dateJoined": "2021-08-25T09:05:00Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-003",
+      "firstName": "Chloé",
+      "lastName": "Mercier",
+      "email": "c.mercier@pro-mail.net",
+      "phoneNumber": "+33 6 11 99 88 00",
+      "address": {
+        "street": "5 Place du Capitole",
+        "city": "Toulouse",
+        "postalCode": "31000",
+        "country": "France"
+      },
+      "dateJoined": "2023-01-05T15:00:00Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-004",
+      "firstName": "Lucas",
+      "lastName": "Girard",
+      "email": "lucas.girard@email.com",
+      "phoneNumber": "+33 7 50 60 70 80",
+      "address": {
+        "street": "8 Boulevard Jean Jaurès",
+        "city": "Nice",
+        "postalCode": "06000",
+        "country": "France"
+      },
+      "dateJoined": "2022-09-18T10:10:10Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-a4f8b1e2",
+      "firstName": "Théophile",
+      "lastName": "Andre",
+      "email": "t.andre@email.fr",
+      "phoneNumber": "+33 6 99 88 77 66",
+      "address": {
+        "street": "15 Rue des Lilas",
+        "city": "Paris",
+        "postalCode": "75020",
+        "country": "France"
+      },
+      "dateJoined": "2022-05-18T14:25:00Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-c9d3e7f4",
+      "firstName": "Marguerite",
+      "lastName": "Poirier",
+      "email": "m.poirier@mail.com",
+      "phoneNumber": "+33 7 11 22 33 44",
+      "address": {
+        "street": "28 Rue Victor Hugo",
+        "city": "Lyon",
+        "postalCode": "69003",
+        "country": "France"
+      },
+      "dateJoined": "2023-01-10T09:10:00Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-b8e1a5d9",
+      "firstName": "Suzanne",
+      "lastName": "Leclerc",
+      "email": "suzanne.leclerc@company.fr",
+      "phoneNumber": "+33 6 44 55 66 77",
+      "address": {
+        "street": "3 Boulevard Gambetta",
+        "city": "Nantes",
+        "postalCode": "44000",
+        "country": "France"
+      },
+      "dateJoined": "2021-11-05T18:00:00Z",
+      "customerType": "BUSINESS"
+    },
+    {
+      "id": "cust-f2a9c6b3",
+      "firstName": "Alexandre",
+      "lastName": "Martin",
+      "email": "alex.martin@gmail.com",
+      "phoneNumber": "+33 7 12 34 56 78",
+      "address": {
+        "street": "42 Rue de la Paix",
+        "city": "Strasbourg",
+        "postalCode": "67000",
+        "country": "France"
+      },
+      "dateJoined": "2022-08-22T07:45:00Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-e7d0f1c8",
+      "firstName": "Julie",
+      "lastName": "Bernard",
+      "email": "julie.bernard@outlook.fr",
+      "phoneNumber": "+33 6 98 76 54 32",
+      "address": {
+        "street": "17 Avenue Jean Moulin",
+        "city": "Montpellier",
+        "postalCode": "34000",
+        "country": "France"
+      },
+      "dateJoined": "2023-07-03T12:00:00Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-1a2b3c4d",
+      "firstName": "Lucas",
+      "lastName": "Moreau",
+      "email": "lucas.moreau@hotmail.fr",
+      "phoneNumber": "+33 7 00 11 22 33",
+      "address": {
+        "street": "8 Rue Bellecordière",
+        "city": "Lyon",
+        "postalCode": "69002",
+        "country": "France"
+      },
+      "dateJoined": "2022-03-12T16:05:00Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-5e6f7g8h",
+      "firstName": "Chloé",
+      "lastName": "Petit",
+      "email": "chloe.petit@business.fr",
+      "phoneNumber": "+33 6 22 33 44 55",
+      "address": {
+        "street": "55 Avenue de la Libération",
+        "city": "Bordeaux",
+        "postalCode": "33000",
+        "country": "France"
+      },
+      "dateJoined": "2021-09-28T10:30:00Z",
+      "customerType": "BUSINESS"
+    },
+    {
+      "id": "cust-9i0j1k2l",
+      "firstName": "Gabriel",
+      "lastName": "Roux",
+      "email": "gabriel.roux@mail.net",
+      "phoneNumber": "+33 6 11 22 33 55",
+      "address": {
+        "street": "5 Impasse des Fleurs",
+        "city": "Toulouse",
+        "postalCode": "31000",
+        "country": "France"
+      },
+      "dateJoined": "2023-02-01T08:55:01Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-3m4n5o6p",
+      "firstName": "Léa",
+      "lastName": "David",
+      "email": "lea.d@provider.com",
+      "phoneNumber": "0498765432",
+      "address": {
+        "street": "101 Boulevard Voltaire",
+        "city": "Paris",
+        "postalCode": "75011",
+        "country": "France"
+      },
+      "dateJoined": "2022-11-19T13:15:30Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-7q8r9s0t",
+      "firstName": "Raphaël",
+      "lastName": "Bertrand",
+      "email": "raph.bertrand@service.fr",
+      "phoneNumber": "+33 7 55 44 33 22",
+      "address": {
+        "street": "8 Rue de la Gare",
+        "city": "Lille",
+        "postalCode": "59000",
+        "country": "France"
+      },
+      "dateJoined": "2023-06-05T17:20:55Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-1u2v3w4x",
+      "firstName": "Manon",
+      "lastName": "Morel",
+      "email": "manon.m@company.com",
+      "phoneNumber": "0123456789",
+      "address": {
+        "street": "33 Chemin des Vignes",
+        "city": "Bordeaux",
+        "postalCode": "33300",
+        "country": "France"
+      },
+      "dateJoined": "2022-01-08T12:00:00Z",
+      "customerType": "BUSINESS"
+    },
+    {
+      "id": "cust-5y6z7a8b",
+      "firstName": "Hugo",
+      "lastName": "Fournier",
+      "email": "h.fournier@domain.org",
+      "phoneNumber": "0698712345",
+      "address": {
+        "street": "1 Place du Marché",
+        "city": "Nantes",
+        "postalCode": "44000",
+        "country": "France"
+      },
+      "dateJoined": "2021-12-15T09:45:10Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-9c0d1e2f",
+      "firstName": "Emma",
+      "lastName": "Girard",
+      "email": "emma.girard@mail.com",
+      "phoneNumber": "+33 4 56 78 90 12",
+      "address": {
+        "street": "7 Avenue Jean Jaurès",
+        "city": "Strasbourg",
+        "postalCode": "67000",
+        "country": "France"
+      },
+      "dateJoined": "2023-04-20T11:10:35Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-3g4h5i6j",
+      "firstName": "Adam",
+      "lastName": "Bonnet",
+      "email": "adam.b@web.net",
+      "phoneNumber": "0712345678",
+      "address": {
+        "street": "12 Rue des Peupliers",
+        "city": "Rennes",
+        "postalCode": "35000",
+        "country": "France"
+      },
+      "dateJoined": "2022-07-11T14:05:20Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-7k8l9m0n",
+      "firstName": "Louise",
+      "lastName": "Dubois",
+      "email": "louise.d@internet.fr",
+      "phoneNumber": "+33 1 87 65 43 21",
+      "address": {
+        "street": "45 Boulevard Saint-Michel",
+        "city": "Paris",
+        "postalCode": "75005",
+        "country": "France"
+      },
+      "dateJoined": "2023-08-29T10:00:50Z",
+      "customerType": "BUSINESS"
+    },
+    {
+      "id": "cust-1o2p3q4r",
+      "firstName": "Jules",
+      "lastName": "Leroy",
+      "email": "j.leroy@email.com",
+      "phoneNumber": "0412345678",
+      "address": {
+        "street": "9 Allée des Roses",
+        "city": "Nice",
+        "postalCode": "06000",
+        "country": "France"
+      },
+      "dateJoined": "2022-10-02T15:35:05Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-5s6t7u8v",
+      "firstName": "Camille",
+      "lastName": "Francois",
+      "email": "cam.francois@domain.net",
+      "phoneNumber": "+33 6 88 77 66 55",
+      "address": {
+        "street": "16 Place de la Bourse",
+        "city": "Lyon",
+        "postalCode": "69002",
+        "country": "France"
+      },
+      "dateJoined": "2023-01-25T18:40:15Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-9w0x1y2z",
+      "firstName": "Noah",
+      "lastName": "Mercier",
+      "email": "n.mercier@mail.org",
+      "phoneNumber": "0777665544",
+      "address": {
+        "street": "22 Rue de la Liberté",
+        "city": "Montpellier",
+        "postalCode": "34000",
+        "country": "France"
+      },
+      "dateJoined": "2022-04-14T09:05:59Z",
+      "customerType": "PERSONAL"
+    },
+    {
+      "id": "cust-3a4b5c6d",
+      "firstName": "Rose",
+      "lastName": "Blanc",
+      "email": "rose.blanc@provider.fr",
+      "phoneNumber": "+33 4 11 22 33 44",
+      "address": {
+        "street": "50 Quai des Chartrons",
+        "city": "Bordeaux",
+        "postalCode": "33000",
+        "country": "France"
+      },
+      "dateJoined": "2021-10-30T16:50:25Z",
+      "customerType": "BUSINESS"
+    },
+    {
+      "id": "cust-7e8f9g0h",
+      "firstName": "Louis",
+      "lastName": "Garnier",
+      "email": "louis.garnier@web.com",
+      "phoneNumber": "0655443322",
+      "address": {
+        "street": "7 Rue du Faubourg Saint-Honoré",
+        "city": "Paris",
+        "postalCode": "75008",
+        "country": "France"
+      },
+      "dateJoined": "2023-05-09T13:25:18Z",
+      "customerType": "PERSONAL"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "acct-1001",
+      "customerId": "cust-001",
+      "accountNumber": "FR76 1111 2222 3333 4444 5555 678",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "balance": 1845.78,
+      "openedDate": "2022-03-10T11:25:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-1002",
+      "customerId": "cust-001",
+      "accountNumber": "FR76 1111 2222 3333 6666 7777 999",
+      "accountType": "SAVINGS",
+      "currency": "EUR",
+      "balance": 8210.45,
+      "openedDate": "2022-04-01T10:00:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-2001",
+      "customerId": "cust-002",
+      "accountNumber": "FR76 4444 5555 6666 7777 8888 111",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "balance": 572.11,
+      "openedDate": "2021-08-25T09:10:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-3001",
+      "customerId": "cust-003",
+      "accountNumber": "FR76 7777 8888 9999 0000 1111 222",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "balance": 3105.96,
+      "openedDate": "2023-01-05T15:05:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-3002",
+      "customerId": "cust-003",
+      "accountNumber": "FR76 7777 8888 9999 2222 3333 444",
+      "accountType": "SAVINGS",
+      "currency": "USD",
+      "balance": 2530,
+      "openedDate": "2023-02-15T14:00:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-4001",
+      "customerId": "cust-004",
+      "accountNumber": "FR76 1212 3434 5656 7878 9090 123",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "balance": 988.55,
+      "openedDate": "2022-09-18T10:15:00Z",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "acct-f8b1e2a1",
+      "customerId": "cust-a4f8b1e2",
+      "accountNumber": "FR6614508000018765432109876",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2022-05-18T14:30:11Z",
+      "status": "ACTIVE",
+      "balance": 1599.86
+    },
+    {
+      "id": "acct-f8b1e2a2",
+      "customerId": "cust-a4f8b1e2",
+      "accountNumber": "FR3314508000011234567890123",
+      "accountType": "SAVINGS",
+      "currency": "EUR",
+      "openedDate": "2022-06-01T10:00:00Z",
+      "status": "ACTIVE",
+      "balance": 6515.75
+    },
+    {
+      "id": "acct-d3e7f4b1",
+      "customerId": "cust-c9d3e7f4",
+      "accountNumber": "FR7516598000019012345678901",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2023-01-10T09:15:35Z",
+      "status": "ACTIVE",
+      "balance": -25.1
+    },
+    {
+      "id": "acct-e1a5d9c1",
+      "customerId": "cust-b8e1a5d9",
+      "accountNumber": "FR8811223344556789012345678",
+      "accountType": "BUSINESS",
+      "currency": "EUR",
+      "openedDate": "2021-11-05T18:05:59Z",
+      "status": "ACTIVE",
+      "balance": 15430.15
+    },
+    {
+      "id": "acct-a9c6b3d1",
+      "customerId": "cust-f2a9c6b3",
+      "accountNumber": "FR5520041010051231231231234",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2022-08-22T07:50:12Z",
+      "status": "ACTIVE",
+      "balance": 2450.6
+    },
+    {
+      "id": "acct-a9c6b3d2",
+      "customerId": "cust-f2a9c6b3",
+      "accountNumber": "FR4420041010059879879879876",
+      "accountType": "SAVINGS",
+      "currency": "USD",
+      "openedDate": "2022-09-15T09:00:00Z",
+      "status": "ACTIVE",
+      "balance": 3100
+    },
+    {
+      "id": "acct-d0f1c8e1",
+      "customerId": "cust-e7d0f1c8",
+      "accountNumber": "FR9230003000017897897897890",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2023-07-03T12:00:28Z",
+      "status": "ACTIVE",
+      "balance": 988.45
+    },
+    {
+      "id": "acct-1a2b3c4d-1",
+      "customerId": "cust-1a2b3c4d",
+      "accountNumber": "FR1112345678901234567890123",
+      "accountType": "CURRENT",
+      "currency": "EUR",
+      "openedDate": "2022-03-12T16:10:42Z",
+      "status": "ACTIVE",
+      "balance": 1854.22
+    },
+    {
+      "id": "acct-5e6f7g8h-1",
+      "customerId": "cust-5e6f7g8h",
+      "accountNumber": "FR2298765432109876543210987",
+      "accountType": "BUSINESS",
+      "currency": "EUR",
+      "openedDate": "2021-09-28T10:35:15Z",
+      "status": "ACTIVE",
+      "balance": 25876.9
+    },
+    {
+      "id": "acct-5e6f7g8h-2",
+      "customerId": "cust-5e6f7g8h",
+      "accountNumber": "FR3387654321098765432109876",
+      "accountType": "SAVINGS",
+      "currency": "EUR",
+      "openedDate": "2021-10-01T11:00:00Z",
+      "status": "ACTIVE",
+      "balance": 11500
+    },
+    {
+      "customerId": "cust-5e6f7g8h",
+      "accountNumber": "FR3387654321098765432109876",
+      "type": "SAVINGS",
+      "currency": "EUR",
+      "openedDate": "2021-10-01T11:00:00Z",
+      "status": "ACTIVE",
+      "balance": 11500,
+      "id": "7f078d7d-48bb-4e82-a302-941dc6c893e9"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "txn-10001",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-01T08:30:00Z",
+      "type": "CREDIT",
+      "amount": 2200,
+      "currency": "EUR",
+      "description": "Salaire Aout",
+      "runningBalance": 2200
+    },
+    {
+      "id": "txn-10002",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-05T10:00:00Z",
+      "type": "DEBIT",
+      "amount": 750,
+      "currency": "EUR",
+      "description": "Loyer Septembre",
+      "counterpartyName": "SCI Horizon",
+      "runningBalance": 1450
+    },
+    {
+      "id": "txn-10003",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-08T18:15:00Z",
+      "type": "DEBIT",
+      "amount": 85.6,
+      "currency": "EUR",
+      "description": "Supermarché Grand Frais",
+      "runningBalance": 1364.4
+    },
+    {
+      "id": "txn-10004",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-12T12:35:00Z",
+      "type": "DEBIT",
+      "amount": 35,
+      "currency": "EUR",
+      "description": "Repas Brasserie Soleil",
+      "runningBalance": 1329.4
+    },
+    {
+      "id": "txn-10005",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-15T09:00:00Z",
+      "type": "DEBIT",
+      "amount": 50,
+      "currency": "EUR",
+      "description": "Abonnement Transport",
+      "runningBalance": 1279.4
+    },
+    {
+      "id": "txn-10006",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-19T20:05:00Z",
+      "type": "DEBIT",
+      "amount": 62.3,
+      "currency": "EUR",
+      "description": "Commande TechStore.com",
+      "runningBalance": 1217.1
+    },
+    {
+      "id": "txn-10007",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-22T14:00:00Z",
+      "type": "DEBIT",
+      "amount": 80,
+      "currency": "EUR",
+      "description": "Retrait DAB Agence Nord",
+      "runningBalance": 1137.1
+    },
+    {
+      "id": "txn-10008",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-25T11:10:00Z",
+      "type": "DEBIT",
+      "amount": 49.99,
+      "currency": "EUR",
+      "description": "Abonnement Streaming+",
+      "runningBalance": 1087.11
+    },
+    {
+      "id": "txn-10009",
+      "accountId": "acct-1001",
+      "timestamp": "2023-09-28T16:45:00Z",
+      "type": "DEBIT",
+      "amount": 115,
+      "currency": "EUR",
+      "description": "Facture Electricite",
+      "runningBalance": 972.11
+    },
+    {
+      "id": "txn-10010",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-01T08:35:00Z",
+      "type": "CREDIT",
+      "amount": 2250,
+      "currency": "EUR",
+      "description": "Salaire Septembre",
+      "runningBalance": 3222.11
+    },
+    {
+      "id": "txn-10011",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-04T19:00:00Z",
+      "type": "DEBIT",
+      "amount": 58.2,
+      "currency": "EUR",
+      "description": "Pharmacie Centrale",
+      "runningBalance": 3163.91
+    },
+    {
+      "id": "txn-10012",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-05T10:05:00Z",
+      "type": "DEBIT",
+      "amount": 750,
+      "currency": "EUR",
+      "description": "Loyer Octobre",
+      "counterpartyName": "SCI Horizon",
+      "runningBalance": 2413.91
+    },
+    {
+      "id": "txn-10013",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-10T09:20:00Z",
+      "type": "DEBIT",
+      "amount": 300,
+      "currency": "EUR",
+      "description": "Virement Epargne acct-1002",
+      "counterpartyAccount": "acct-1002",
+      "runningBalance": 2113.91
+    },
+    {
+      "id": "txn-10014",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-14T15:55:00Z",
+      "type": "DEBIT",
+      "amount": 42.75,
+      "currency": "EUR",
+      "description": "Librairie Page Bleue",
+      "runningBalance": 2071.16
+    },
+    {
+      "id": "txn-10015",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-18T11:30:00Z",
+      "type": "DEBIT",
+      "amount": 120,
+      "currency": "EUR",
+      "description": "Assurance Auto",
+      "runningBalance": 1951.16
+    },
+    {
+      "id": "txn-10016",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-21T10:00:00Z",
+      "type": "DEBIT",
+      "amount": 75.88,
+      "currency": "EUR",
+      "description": "Carburant Station Total",
+      "runningBalance": 1875.28
+    },
+    {
+      "id": "txn-10017",
+      "accountId": "acct-1001",
+      "timestamp": "2023-10-25T17:10:00Z",
+      "type": "DEBIT",
+      "amount": 29.5,
+      "currency": "EUR",
+      "description": "Cinéma Le Rex",
+      "runningBalance": 1845.78
+    },
+    {
+      "id": "txn-20001",
+      "accountId": "acct-1002",
+      "timestamp": "2023-09-15T09:05:00Z",
+      "type": "CREDIT",
+      "amount": 200,
+      "currency": "EUR",
+      "description": "Virement initial",
+      "runningBalance": 8000
+    },
+    {
+      "id": "txn-20002",
+      "accountId": "acct-1002",
+      "timestamp": "2023-09-30T23:59:00Z",
+      "type": "CREDIT",
+      "amount": 10.5,
+      "currency": "EUR",
+      "description": "Intérêts Septembre",
+      "runningBalance": 8010.5
+    },
+    {
+      "id": "txn-20003",
+      "accountId": "acct-1002",
+      "timestamp": "2023-10-10T09:20:05Z",
+      "type": "CREDIT",
+      "amount": 300,
+      "currency": "EUR",
+      "description": "Virement depuis acct-1001",
+      "counterpartyAccount": "acct-1001",
+      "runningBalance": 8310.5
+    },
+    {
+      "id": "txn-20004",
+      "accountId": "acct-1002",
+      "timestamp": "2023-10-20T14:30:15Z",
+      "type": "CREDIT",
+      "amount": 12.5,
+      "currency": "EUR",
+      "description": "Intérêts Octobre",
+      "runningBalance": 8210.45
+    },
+    {
+      "id": "txn-9a8f7b6e-1",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-01T08:30:00Z",
+      "type": "CREDIT",
+      "amount": 2800,
+      "currency": "EUR",
+      "description": "Salaire Octobre 2023",
+      "runningBalance": 2800
+    },
+    {
+      "id": "txn-9a8f7b6e-2",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-05T10:05:15Z",
+      "type": "DEBIT",
+      "amount": 950,
+      "currency": "EUR",
+      "description": "Loyer Novembre",
+      "counterpartyName": "SCI Bon Logis",
+      "runningBalance": 1850
+    },
+    {
+      "id": "txn-9a8f7b6e-3",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-06T14:20:30Z",
+      "type": "DEBIT",
+      "amount": 85.3,
+      "currency": "EUR",
+      "description": "Supermarché Carrefour",
+      "runningBalance": 1764.7
+    },
+    {
+      "id": "txn-9a8f7b6e-4",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-10T19:55:00Z",
+      "type": "DEBIT",
+      "amount": 45.5,
+      "currency": "EUR",
+      "description": "Restaurant 'Chez Loulou'",
+      "runningBalance": 1719.2
+    },
+    {
+      "id": "txn-9a8f7b6e-5",
+      "accountId": "acct-f8b1e2a1",
+      "timestamp": "2023-11-15T09:10:00Z",
+      "type": "DEBIT",
+      "amount": 119.34,
+      "currency": "EUR",
+      "description": "Facture Electricite EDF",
+      "counterpartyName": "EDF",
+      "runningBalance": 1599.86
+    },
+    {
+      "id": "txn-a1b2c3d4-1",
+      "accountId": "acct-f8b1e2a2",
+      "timestamp": "2023-10-31T23:59:59Z",
+      "type": "CREDIT",
+      "amount": 15.75,
+      "currency": "EUR",
+      "description": "Intérêts Octobre 2023",
+      "runningBalance": 6515.75
+    },
+    {
+      "id": "txn-b4c5d6e7-1",
+      "accountId": "acct-d3e7f4b1",
+      "timestamp": "2023-11-03T11:00:00Z",
+      "type": "CREDIT",
+      "amount": 1500,
+      "currency": "EUR",
+      "description": "Remboursement Prêt Ami",
+      "counterpartyName": "J. Durant",
+      "runningBalance": 1500
+    },
+    {
+      "id": "txn-b4c5d6e7-2",
+      "accountId": "acct-d3e7f4b1",
+      "timestamp": "2023-11-07T08:45:00Z",
+      "type": "DEBIT",
+      "amount": 750,
+      "currency": "EUR",
+      "description": "Virement Loyer",
+      "counterpartyAccount": "FR...",
+      "runningBalance": 750
+    },
+    {
+      "id": "txn-b4c5d6e7-3",
+      "accountId": "acct-d3e7f4b1",
+      "timestamp": "2023-11-12T16:30:00Z",
+      "type": "DEBIT",
+      "amount": 775.1,
+      "currency": "EUR",
+      "description": "Achat FNAC",
+      "runningBalance": -25.1
+    },
+    {
+      "id": "txn-c7d8e9f0-1",
+      "accountId": "acct-e1a5d9c1",
+      "timestamp": "2023-10-25T15:00:00Z",
+      "type": "CREDIT",
+      "amount": 5000,
+      "currency": "EUR",
+      "description": "Paiement Facture #INV-101 - Client Alpha",
+      "counterpartyName": "Client Alpha SARL",
+      "runningBalance": 12500
+    },
+    {
+      "id": "txn-c7d8e9f0-2",
+      "accountId": "acct-e1a5d9c1",
+      "timestamp": "2023-11-02T10:20:00Z",
+      "type": "DEBIT",
+      "amount": 1500,
+      "currency": "EUR",
+      "description": "Paiement Fournisseur Beta",
+      "counterpartyName": "Fournisseur Beta Inc.",
+      "runningBalance": 11000
+    },
+    {
+      "id": "txn-c7d8e9f0-3",
+      "accountId": "acct-e1a5d9c1",
+      "timestamp": "2023-11-08T17:00:00Z",
+      "type": "CREDIT",
+      "amount": 7500,
+      "currency": "EUR",
+      "description": "Paiement Facture #INV-105 - Client Gamma",
+      "counterpartyName": "Client Gamma Ltd.",
+      "runningBalance": 18500
+    },
+    {
+      "id": "txn-c7d8e9f0-4",
+      "accountId": "acct-e1a5d9c1",
+      "timestamp": "2023-11-14T11:35:00Z",
+      "type": "DEBIT",
+      "amount": 3069.85,
+      "currency": "EUR",
+      "description": "Charges Sociales URSSAF",
+      "counterpartyName": "URSSAF",
+      "runningBalance": 15430.15
+    },
+    {
+      "id": "txn-d1e2f3g4-1",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-10-02T09:00:00Z",
+      "type": "CREDIT",
+      "amount": 2200,
+      "currency": "EUR",
+      "description": "Salaire Sept",
+      "runningBalance": 2200
+    },
+    {
+      "id": "txn-d1e2f3g4-2",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-10-06T11:25:00Z",
+      "type": "DEBIT",
+      "amount": 650,
+      "currency": "EUR",
+      "description": "Loyer",
+      "runningBalance": 1550
+    },
+    {
+      "id": "txn-d1e2f3g4-3",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-10-10T18:10:00Z",
+      "type": "DEBIT",
+      "amount": 45.78,
+      "currency": "EUR",
+      "description": "Courses Auchan",
+      "runningBalance": 1504.22
+    },
+    {
+      "id": "txn-d1e2f3g4-4",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-10-15T12:00:00Z",
+      "type": "DEBIT",
+      "amount": 200,
+      "currency": "EUR",
+      "description": "Remboursement ami",
+      "runningBalance": 1304.22
+    },
+    {
+      "id": "txn-d1e2f3g4-5",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-11-01T09:05:00Z",
+      "type": "CREDIT",
+      "amount": 2200,
+      "currency": "EUR",
+      "description": "Salaire Oct",
+      "runningBalance": 3504.22
+    },
+    {
+      "id": "txn-d1e2f3g4-6",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-11-07T10:30:00Z",
+      "type": "DEBIT",
+      "amount": 650,
+      "currency": "EUR",
+      "description": "Loyer",
+      "runningBalance": 2854.22
+    },
+    {
+      "id": "txn-d1e2f3g4-7",
+      "accountId": "acct-1a2b3c4d-1",
+      "timestamp": "2023-11-11T15:00:00Z",
+      "type": "DEBIT",
+      "amount": 1000,
+      "currency": "EUR",
+      "description": "Achat ordinateur",
+      "runningBalance": 1854.22
+    }
+  ],
+  "beneficiaries": [
+    {
+      "id": "bene-a4f8b1e2-1",
+      "customerId": "cust-a4f8b1e2",
+      "beneficiaryName": "SCI Bon Logis",
+      "accountNumber": "FR1111111111111111111111111",
+      "bankName": "La Banque Postale",
+      "nickname": "Loyer"
+    },
+    {
+      "id": "bene-a4f8b1e2-2",
+      "customerId": "cust-a4f8b1e2",
+      "beneficiaryName": "EDF",
+      "accountNumber": "FR2222222222222222222222222",
+      "bankName": "BNP Paribas",
+      "nickname": "Electricité"
+    },
+    {
+      "id": "bene-c9d3e7f4-1",
+      "customerId": "cust-c9d3e7f4",
+      "beneficiaryName": "J. Durant",
+      "accountNumber": "FR3333333333333333333333333",
+      "bankName": "Société Générale",
+      "nickname": "Remboursement"
+    },
+    {
+      "id": "bene-c9d3e7f4-2",
+      "customerId": "cust-c9d3e7f4",
+      "beneficiaryName": "Proprio Immo",
+      "accountNumber": "FR4444444444444444444444444",
+      "bankName": "Crédit Mutuel",
+      "nickname": "Loyer Marguerite"
+    },
+    {
+      "id": "bene-b8e1a5d9-1",
+      "customerId": "cust-b8e1a5d9",
+      "beneficiaryName": "Fournisseur Beta Inc.",
+      "accountNumber": "FR5555555555555555555555555",
+      "bankName": "HSBC",
+      "nickname": "Fournisseur Beta"
+    },
+    {
+      "id": "bene-b8e1a5d9-2",
+      "customerId": "cust-b8e1a5d9",
+      "beneficiaryName": "URSSAF",
+      "accountNumber": "FR6666666666666666666666666",
+      "bankName": "Banque de France",
+      "nickname": "Charges Sociales"
+    },
+    {
+      "id": "bene-1a2b3c4d-1",
+      "customerId": "cust-1a2b3c4d",
+      "beneficiaryName": "Agence Location Lyon",
+      "accountNumber": "FR7777777777777777777777777",
+      "bankName": "CIC",
+      "nickname": "Loyer Lyon"
+    },
+    {
+      "id": "bene-1a2b3c4d-2",
+      "customerId": "cust-1a2b3c4d",
+      "beneficiaryName": "Maman",
+      "accountNumber": "FR8888888888888888888888888",
+      "bankName": "Caisse d'Epargne",
+      "nickname": "Maman"
+    },
+    {
+      "id": "bene-5e6f7g8h-1",
+      "customerId": "cust-5e6f7g8h",
+      "beneficiaryName": "Fournisseur Mat Prem",
+      "accountNumber": "FR9999999999999999999999999",
+      "bankName": "Credit Lyonnais",
+      "nickname": "Matieres Premieres Sud"
+    },
+    {
+      "id": "bene-5e6f7g8h-2",
+      "customerId": "cust-5e6f7g8h",
+      "beneficiaryName": "Employe Un",
+      "accountNumber": "FR0000000000000000000000000",
+      "bankName": "Boursorama",
+      "nickname": "Salaire - Jean D."
+    },
+    {
+      "id": "bene-5e6f7g8h-3",
+      "customerId": "cust-5e6f7g8h",
+      "beneficiaryName": "Employe Deux",
+      "accountNumber": "FR1010101010101010101010101",
+      "bankName": "Hello Bank",
+      "nickname": "Salaire - Marie L."
+    }
+  ]
+}

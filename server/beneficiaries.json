@@ -1,0 +1,92 @@
+{
+  "beneficiaries": [
+    {
+      "id": "bene-a4f8b1e2-1",
+      "customerId": "cust-a4f8b1e2",
+      "beneficiaryName": "SCI Bon Logis",
+      "accountNumber": "FR1111111111111111111111111",
+      "bankName": "La Banque Postale",
+      "nickname": "Loyer"
+    },
+    {
+      "id": "bene-a4f8b1e2-2",
+      "customerId": "cust-a4f8b1e2",
+      "beneficiaryName": "EDF",
+      "accountNumber": "FR2222222222222222222222222",
+      "bankName": "BNP Paribas",
+      "nickname": "Electricité"
+    },
+    {
+      "id": "bene-c9d3e7f4-1",
+      "customerId": "cust-c9d3e7f4",
+      "beneficiaryName": "J. Durant",
+      "accountNumber": "FR3333333333333333333333333",
+      "bankName": "Société Générale",
+      "nickname": "Remboursement"
+    },
+    {
+      "id": "bene-c9d3e7f4-2",
+      "customerId": "cust-c9d3e7f4",
+      "beneficiaryName": "Proprio Immo",
+      "accountNumber": "FR4444444444444444444444444",
+      "bankName": "Crédit Mutuel",
+      "nickname": "Loyer Marguerite"
+    },
+    {
+      "id": "bene-b8e1a5d9-1",
+      "customerId": "cust-b8e1a5d9",
+      "beneficiaryName": "Fournisseur Beta Inc.",
+      "accountNumber": "FR5555555555555555555555555",
+      "bankName": "HSBC",
+      "nickname": "Fournisseur Beta"
+    },
+    {
+      "id": "bene-b8e1a5d9-2",
+      "customerId": "cust-b8e1a5d9",
+      "beneficiaryName": "URSSAF",
+      "accountNumber": "FR6666666666666666666666666",
+      "bankName": "Banque de France",
+      "nickname": "Charges Sociales"
+    },
+    {
+      "id": "bene-1a2b3c4d-1",
+      "customerId": "cust-1a2b3c4d",
+      "beneficiaryName": "Agence Location Lyon",
+      "accountNumber": "FR7777777777777777777777777",
+      "bankName": "CIC",
+      "nickname": "Loyer Lyon"
+    },
+    {
+      "id": "bene-1a2b3c4d-2",
+      "customerId": "cust-1a2b3c4d",
+      "beneficiaryName": "Maman",
+      "accountNumber": "FR8888888888888888888888888",
+      "bankName": "Caisse d'Epargne",
+      "nickname": "Maman"
+    },
+    {
+      "id": "bene-5e6f7g8h-1",
+      "customerId": "cust-5e6f7g8h",
+      "beneficiaryName": "Fournisseur Mat Prem",
+      "accountNumber": "FR9999999999999999999999999",
+      "bankName": "Credit Lyonnais",
+      "nickname": "Matieres Premieres Sud"
+    },
+    {
+      "id": "bene-5e6f7g8h-2",
+      "customerId": "cust-5e6f7g8h",
+      "beneficiaryName": "Employe Un",
+      "accountNumber": "FR0000000000000000000000000",
+      "bankName": "Boursorama",
+      "nickname": "Salaire - Jean D."
+    },
+    {
+      "id": "bene-5e6f7g8h-3",
+      "customerId": "cust-5e6f7g8h",
+      "beneficiaryName": "Employe Deux",
+      "accountNumber": "FR1010101010101010101010101",
+      "bankName": "Hello Bank",
+      "nickname": "Salaire - Marie L."
+    }
+  ]
+}
